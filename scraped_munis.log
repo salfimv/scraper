@@ -1,0 +1,113 @@
+2500,started,attempt_0
+2500,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2500,started,attempt_1
+2500,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2501,started,attempt_0
+2501,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2501,started,attempt_1
+2501,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2502,started,attempt_0
+2502,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2502,started,attempt_1
+2502,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2503,started,attempt_0
+2503,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2503,started,attempt_1
+2503,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2504,started,attempt_0
+2504,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2504,started,attempt_1
+2504,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2505,started,attempt_0
+2505,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2505,started,attempt_1
+2505,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2506,started,attempt_0
+2506,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2506,started,attempt_1
+2506,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2507,started,attempt_0
+2507,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2507,started,attempt_1
+2507,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2508,started,attempt_0
+2508,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2508,started,attempt_1
+2508,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2509,started,attempt_0
+2509,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2509,started,attempt_1
+2509,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2500,started,attempt_0
+2500,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2500,started,attempt_1
+2500,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2501,started,attempt_0
+2501,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2501,started,attempt_1
+2501,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2502,started,attempt_0
+2502,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2502,started,attempt_1
+2502,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2503,started,attempt_0
+2503,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2503,started,attempt_1
+2503,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2504,started,attempt_0
+2504,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2504,started,attempt_1
+2504,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2505,started,attempt_0
+2505,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2505,started,attempt_1
+2505,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2506,started,attempt_0
+2506,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2506,started,attempt_1
+2506,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2507,started,attempt_0
+2507,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2507,started,attempt_1
+2507,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2508,started,attempt_0
+2508,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2508,started,attempt_1
+2508,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2509,started,attempt_0
+2509,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2509,started,attempt_1
+2509,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2500,started,attempt_0
+2500,failed,attempt_0,Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActiveP
+2500,started,attempt_1
+2500,failed,attempt_1,Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActiveP
+2501,started,attempt_0
+2501,failed,attempt_0,Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActiveP
+2501,started,attempt_1
+2501,failed,attempt_1,Message: unknown error: Chrome failed to start: exited abnormally.
+  (unknown error: DevToolsActiveP
+2502,started,attempt_0
+2500,started,attempt_0
+2500,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2500,started,attempt_1
+2500,failed,attempt_1,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2501,started,attempt_0
+2501,failed,attempt_0,Message: session not created: probably user data directory is already in use, please specify a uniqu
+2501,started,attempt_1
+2500,started,attempt_0
+2500,started,attempt_0
+2500,bayern_skip
+2501,started,attempt_0
+1,started,attempt_0
+1,started,attempt_1
+1,started,attempt_0
+1,no_bundestagswahl
+2,started,attempt_0
+2,success
+2501,started,attempt_0
+2501,success
+2502,started,attempt_0
