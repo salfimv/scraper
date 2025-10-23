@@ -245,9 +245,8 @@ def scrape_single_muni(idx):
             # Navigate to correct page
             if page_num > 1:
                 try:
-                    # Iterate pages with a progress bar so the user can see activity
-                    from tqdm import trange
-                    for i in trange(page_num - 1, desc=f"Clicking weiter", leave=False):
+                    # Iterate pages silently (no progress bar)
+                    for i in range(page_num - 1):
                         time.sleep(0.3)
 
                         clicked = False
@@ -494,9 +493,9 @@ def scrape_single_muni(idx):
 def main():
     """Main execution function - NO THREADING for Codespaces"""
     # Start with a small test range
-    muni_indices = list(range(2501, 2510))  # Test with 10 municipalities
+    muni_indices = list(range(3019, 3100)) #need to do for 2600 to 3000
     
-    print(f"Starting scraper for {len(muni_indices)} municipalities (2500-2509)")
+    print(f"Starting scraper for {len(muni_indices)} municipalities")
     
     # Resume logic
     try:
