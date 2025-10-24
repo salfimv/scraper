@@ -493,7 +493,7 @@ def scrape_single_muni(idx):
 def main():
     """Main execution function - NO THREADING for Codespaces"""
     # Start with a small test range
-    muni_indices = list(range(3019, 3100)) #need to do for 2600 to 3000
+    muni_indices = list(range(3048, 3100)) #need to do for 2600 to 3000
     
     print(f"Starting scraper for {len(muni_indices)} municipalities")
     
