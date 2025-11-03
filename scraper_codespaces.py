@@ -1,5 +1,6 @@
 # Bundestag Scraper for GitHub Codespaces - 2021 version
 # Single-threaded version for cloud stability
+# not implemented idea: go to the page, check which are bayern, directly exclude and them go scrape directly the ones which are not bayern from that page to save time. Double срулс if each municipality is bayern when arrived to scrape it, just in case.
 import os
 import time
 import csv
@@ -245,9 +246,8 @@ def scrape_single_muni(idx):
             # Navigate to correct page
             if page_num > 1:
                 try:
-                    # Iterate pages with a progress bar so the user can see activity
-                    from tqdm import trange
-                    for i in trange(page_num - 1, desc=f"Clicking weiter", leave=False):
+                    # Iterate pages silently (no progress bar)
+                    for i in range(page_num - 1):
                         time.sleep(0.3)
 
                         clicked = False
@@ -494,9 +494,9 @@ def scrape_single_muni(idx):
 def main():
     """Main execution function - NO THREADING for Codespaces"""
     # Start with a small test range
-    muni_indices = list(range(2501, 2510))  # Test with 10 municipalities
+    muni_indices = list(range(2975, 3000)) #need to do from x to 3000
     
-    print(f"Starting scraper for {len(muni_indices)} municipalities (2500-2509)")
+    print(f"Starting scraper for {len(muni_indices)} municipalities")
     
     # Resume logic
     try:
@@ -520,7 +520,7 @@ def main():
         scrape_single_muni(idx)
         
         # Brief pause between municipalities
-        time.sleep(1)
+        time.sleep(0.3)
         
         # Progress update every 5 municipalities
         if idx % 5 == 0:
